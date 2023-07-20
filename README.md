@@ -1,18 +1,18 @@
 # IBM-Skillsbuild-Edunet-Foundation-Project-
 Superstore Analysis
 
-Project Title: Data Analysis of Superstore Dataset
+# Project Title: Data Analysis of Superstore Dataset
 This project focuses on analyzing the SuperStore dataset, which contains Sales and Profit data from a retail store in the United States. The goal of this project is to conduct a comprehensive analysis of the Sample Superstore dataset to gain valuable insights into Sales trends and Profitability of the store and identify areas for improvement.
 
-Sales Analysis:
+# Sales Analysis:
 Analyze sales metrics, trends, and factors influencing sales fluctuations.
 
-Profit Analysis:
+# Profit Analysis:
 Analyze the profit and factors affecting profit of various items in the store.
 
 The Superstore dataset encompasses a wide range of information, including sales data, customer demographics, product categories, and geographical regions. By leveraging this dataset, our objective is to identify areas for improvement and provide data-driven recommendations to optimize the performance of the store. The purpose of this report is to present our findings and recommendations based on the analysis of this dataset.
 
-Project Summary
+# Project Summary
 The project focuses on the analysis of sales and profit from the Superstore dataset using Python libraries and visualization tools, like NumPy, Pandas, Matplotlib and Seaborn.
 The main objectives are to identify sales trends, understand customer behavior, optimize operational efficiency, and improve profitability.
 This project utilizes the SuperStore dataset to conduct a comprehensive analysis of data.
@@ -27,7 +27,7 @@ Statistical tests and visualizations are done to support findings and make data-
 Key findings and insights, providing actionable recommendations for improving the store's profitability and customer satisfaction.
 Project Overview: This project analyzes a dataset of sales data from a fictional superstore. The goal of the project is to identify trends and patterns in the data that can help the superstore improve its business performance.
 
-Project Goals: The goals of this project are to:
+# Project Goals: The goals of this project are to:
 
 Perform exploratory data analysis (EDA) to gain insights into the data. Identify key drivers of sales. Develop recommendations for the superstore to improve its business performance. Project Results: The project found that the following factors are key drivers of sales:
 
